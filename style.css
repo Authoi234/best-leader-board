@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-width{
+    width: 9%;
+}
+.img-width{
+    width: 100%;
+}
+.padding-top{
+    padding-top: 15px;
+}
+.p-l{
+    padding-left: 15px;
+}
+.ul-items{
+    display: flex;
+}
+.ul-items li{
+    padding-right: 20px;
+    list-style: none;
+    color: white;
+}
+.header-bg{
+    background-color: #f3f1ff;
+}
+.header-bg-p{
+    background-color: white;
+    padding: 20px 20px;
+}
